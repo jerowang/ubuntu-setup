@@ -25,7 +25,8 @@
   l = log
   m = merge
   o = checkout
-  p = pull
+  pl = pull
+  ps = push
   r = remote
   s = status
   w = whatchanged
